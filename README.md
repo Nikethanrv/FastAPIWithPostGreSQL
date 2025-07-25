@@ -16,7 +16,7 @@ This is a simple CRUD API built with **FastAPI**, **SQLAlchemy**, and **PostgreS
     ```
 3. Create a `.env` file:
     ```
-    DATABASE_URL=postgresql://postgres:postgres@localhost:5432/todolistdb
+    DATABASE_URL=postgresql://postgres:YOURPWD@localhost:PORTNO/todolistdb
     ```
 
 4. Run the server:
